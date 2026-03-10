@@ -1,12 +1,12 @@
 
-/*
+
 
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: #f0f2f5; /* Light gray background */
+    background-color: #f0f2f5; 
     display: flex;
     justify-content: center;
-    align-items: flex-start; /* Align to top, or center if content is short */
+    align-items: flex-start; 
     min-height: 100vh;
     margin: 0;
     padding: 40px 20px; /* Add some padding around the card */
@@ -108,7 +108,7 @@ h2::after {
     border-radius: 2px;
 }
 
-/* Details Grid for better organization */
+
 .details-grid {
     display: grid;
     grid-template-columns: 1fr; /* Single column on small screens */
